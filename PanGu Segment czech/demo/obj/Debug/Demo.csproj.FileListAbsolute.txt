@@ -1,0 +1,16 @@
+C:\Users\Argothian\Desktop\pangu-segment\Bin\Debug\Demo.exe
+C:\Users\Argothian\Desktop\pangu-segment\Bin\Debug\Demo.pdb
+C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\Demo\obj\Debug\Demo.FormDemo.resources
+C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\Demo\obj\Debug\Demo.Properties.Resources.resources
+C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\Demo\obj\Debug\Demo.csproj.GenerateResource.Cache
+C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\Demo\obj\Debug\Demo.exe
+C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\Demo\obj\Debug\Demo.pdb
+D:\marek\git\pangu\Bin\Debug\Demo.exe
+D:\marek\git\pangu\Bin\Debug\Demo.pdb
+D:\marek\git\pangu\PanGu Segment czech\demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+D:\marek\git\pangu\PanGu Segment czech\demo\obj\Debug\Demo.FormDemo.resources
+D:\marek\git\pangu\PanGu Segment czech\demo\obj\Debug\Demo.Properties.Resources.resources
+D:\marek\git\pangu\PanGu Segment czech\demo\obj\Debug\Demo.csproj.GenerateResource.Cache
+D:\marek\git\pangu\PanGu Segment czech\demo\obj\Debug\Demo.exe
+D:\marek\git\pangu\PanGu Segment czech\demo\obj\Debug\Demo.pdb

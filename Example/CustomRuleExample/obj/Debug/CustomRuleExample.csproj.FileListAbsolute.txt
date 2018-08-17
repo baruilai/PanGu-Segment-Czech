@@ -1,0 +1,6 @@
+C:\Users\Argothian\Desktop\pangu-segment\Example\CustomRuleExample\bin\Debug\CustomRuleExample.dll
+C:\Users\Argothian\Desktop\pangu-segment\Example\CustomRuleExample\bin\Debug\CustomRuleExample.pdb
+C:\Users\Argothian\Desktop\pangu-segment\Example\CustomRuleExample\bin\Debug\PanGu.dll
+C:\Users\Argothian\Desktop\pangu-segment\Example\CustomRuleExample\bin\Debug\PanGu.pdb
+C:\Users\Argothian\Desktop\pangu-segment\Example\CustomRuleExample\obj\Debug\CustomRuleExample.dll
+C:\Users\Argothian\Desktop\pangu-segment\Example\CustomRuleExample\obj\Debug\CustomRuleExample.pdb

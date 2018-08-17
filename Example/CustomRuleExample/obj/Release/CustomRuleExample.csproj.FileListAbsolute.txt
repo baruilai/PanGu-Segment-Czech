@@ -1,0 +1,10 @@
+C:\Users\Argothian\Desktop\pangu-segment\Bin\Release\CustomRuleExample.dll
+C:\Users\Argothian\Desktop\pangu-segment\Bin\Release\CustomRuleExample.pdb
+C:\Users\Argothian\Desktop\pangu-segment\Example\CustomRuleExample\obj\Release\CustomRuleExample.dll
+C:\Users\Argothian\Desktop\pangu-segment\Example\CustomRuleExample\obj\Release\CustomRuleExample.pdb
+C:\Users\Argothian\Desktop\pangu-segment\Example\CustomRuleExample\obj\Release\CustomRuleExample.csprojResolveAssemblyReference.cache
+D:\down\Sharp-desktop\pangu-segment\Bin\Release\CustomRuleExample.dll
+D:\down\Sharp-desktop\pangu-segment\Bin\Release\CustomRuleExample.pdb
+D:\down\Sharp-desktop\pangu-segment\Example\CustomRuleExample\obj\Release\CustomRuleExample.csprojResolveAssemblyReference.cache
+D:\down\Sharp-desktop\pangu-segment\Example\CustomRuleExample\obj\Release\CustomRuleExample.dll
+D:\down\Sharp-desktop\pangu-segment\Example\CustomRuleExample\obj\Release\CustomRuleExample.pdb
