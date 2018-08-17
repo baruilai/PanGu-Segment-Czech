@@ -6,3 +6,11 @@ C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\Demo\obj\Release\Demo.cspr
 C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\Demo\obj\Release\Demo.exe
 C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\Demo\obj\Release\Demo.pdb
 C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\Demo\obj\Release\Demo.csprojResolveAssemblyReference.cache
+D:\down\Sharp-desktop\pangu-segment\Bin\Release\Demo.exe
+D:\down\Sharp-desktop\pangu-segment\Bin\Release\Demo.pdb
+D:\down\Sharp-desktop\pangu-segment\PanGuSegment\Demo\obj\Release\Demo.csprojResolveAssemblyReference.cache
+D:\down\Sharp-desktop\pangu-segment\PanGuSegment\Demo\obj\Release\Demo.FormDemo.resources
+D:\down\Sharp-desktop\pangu-segment\PanGuSegment\Demo\obj\Release\Demo.Properties.Resources.resources
+D:\down\Sharp-desktop\pangu-segment\PanGuSegment\Demo\obj\Release\Demo.csproj.GenerateResource.Cache
+D:\down\Sharp-desktop\pangu-segment\PanGuSegment\Demo\obj\Release\Demo.exe
+D:\down\Sharp-desktop\pangu-segment\PanGuSegment\Demo\obj\Release\Demo.pdb

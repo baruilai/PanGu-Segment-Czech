@@ -5,3 +5,10 @@ C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\PanGu\obj\Release\PanGu.cs
 C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\PanGu\obj\Release\PanGu.dll
 C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\PanGu\obj\Release\PanGu.pdb
 C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\PanGu\obj\Release\PanGu.csprojResolveAssemblyReference.cache
+D:\down\Sharp-desktop\pangu-segment\Bin\Release\PanGu.dll
+D:\down\Sharp-desktop\pangu-segment\Bin\Release\PanGu.pdb
+D:\down\Sharp-desktop\pangu-segment\PanGuSegment\PanGu\obj\Release\PanGu.csprojResolveAssemblyReference.cache
+D:\down\Sharp-desktop\pangu-segment\PanGuSegment\PanGu\obj\Release\PanGu.AnalyzerResource.resources
+D:\down\Sharp-desktop\pangu-segment\PanGuSegment\PanGu\obj\Release\PanGu.csproj.GenerateResource.Cache
+D:\down\Sharp-desktop\pangu-segment\PanGuSegment\PanGu\obj\Release\PanGu.dll
+D:\down\Sharp-desktop\pangu-segment\PanGuSegment\PanGu\obj\Release\PanGu.pdb

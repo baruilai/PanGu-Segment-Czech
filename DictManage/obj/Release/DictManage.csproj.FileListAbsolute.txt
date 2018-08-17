@@ -10,3 +10,15 @@ C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\DictManage\obj\Release\Dic
 C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\DictManage\obj\Release\DictManage.csproj.GenerateResource.Cache
 C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\DictManage\obj\Release\DictManage.exe
 C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\DictManage\obj\Release\DictManage.pdb
+D:\down\Sharp-desktop\pangu-segment\Bin\Release\DictManage.exe
+D:\down\Sharp-desktop\pangu-segment\Bin\Release\DictManage.pdb
+D:\down\Sharp-desktop\pangu-segment\PanGuSegment\DictManage\obj\Release\DictManage.csprojResolveAssemblyReference.cache
+D:\down\Sharp-desktop\pangu-segment\PanGuSegment\DictManage\obj\Release\DictManage.FormBatchInsert.resources
+D:\down\Sharp-desktop\pangu-segment\PanGuSegment\DictManage\obj\Release\DictManage.FormEncoder.resources
+D:\down\Sharp-desktop\pangu-segment\PanGuSegment\DictManage\obj\Release\DictManage.FormFind.resources
+D:\down\Sharp-desktop\pangu-segment\PanGuSegment\DictManage\obj\Release\DictManage.FormInputDictVersion.resources
+D:\down\Sharp-desktop\pangu-segment\PanGuSegment\DictManage\obj\Release\DictManage.FormMain.resources
+D:\down\Sharp-desktop\pangu-segment\PanGuSegment\DictManage\obj\Release\DictManage.Properties.Resources.resources
+D:\down\Sharp-desktop\pangu-segment\PanGuSegment\DictManage\obj\Release\DictManage.csproj.GenerateResource.Cache
+D:\down\Sharp-desktop\pangu-segment\PanGuSegment\DictManage\obj\Release\DictManage.exe
+D:\down\Sharp-desktop\pangu-segment\PanGuSegment\DictManage\obj\Release\DictManage.pdb

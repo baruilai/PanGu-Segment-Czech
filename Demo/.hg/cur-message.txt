@@ -1,4 +1,0 @@
-pangu alpha v10
-rozdìleno nahrazování mezer a koncù øádkù
-pøidán wordtype 
-pøidána option endofline

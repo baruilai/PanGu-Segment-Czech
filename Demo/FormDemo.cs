@@ -256,7 +256,7 @@ namespace Demo
         {
             OpenFileDialog openFile1 = new OpenFileDialog();
             openFile1.Multiselect = true;
-            openFile1.InitialDirectory = AppDomain.CurrentDomain.BaseDirectory;
+            //openFile1.InitialDirectory = AppDomain.CurrentDomain.BaseDirectory;
             openFile1.DefaultExt = "*.txt";
             openFile1.Filter = "txt files (*.txt)|*.txt|All files (*.*)|*.*";
 
@@ -286,6 +286,16 @@ namespace Demo
         { 
             textBoxSource.Text = "";
             textBoxSegwords.Text = "";
+        }
+
+        private void checkBoxIgnoreSpace_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void checkBoxIgnoreEOL_CheckedChanged(object sender, EventArgs e)
+        {
+
         }
 
     }

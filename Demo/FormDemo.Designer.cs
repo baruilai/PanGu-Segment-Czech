@@ -240,7 +240,7 @@
             // 
             this.labelRegRate.AutoSize = true;
             this.labelRegRate.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.labelRegRate.Location = new System.Drawing.Point(671, 540);
+            this.labelRegRate.Location = new System.Drawing.Point(699, 540);
             this.labelRegRate.Name = "labelRegRate";
             this.labelRegRate.Size = new System.Drawing.Size(14, 15);
             this.labelRegRate.TabIndex = 67;
@@ -250,7 +250,7 @@
             // 
             this.labelSegTime.AutoSize = true;
             this.labelSegTime.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.labelSegTime.Location = new System.Drawing.Point(413, 540);
+            this.labelSegTime.Location = new System.Drawing.Point(433, 540);
             this.labelSegTime.Name = "labelSegTime";
             this.labelSegTime.Size = new System.Drawing.Size(14, 15);
             this.labelSegTime.TabIndex = 66;
@@ -260,7 +260,7 @@
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.label6.Location = new System.Drawing.Point(547, 540);
+            this.label6.Location = new System.Drawing.Point(575, 540);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(118, 15);
             this.label6.TabIndex = 63;
@@ -270,7 +270,7 @@
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.label5.Location = new System.Drawing.Point(271, 540);
+            this.label5.Location = new System.Drawing.Point(291, 540);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(136, 15);
             this.label5.TabIndex = 62;
@@ -291,7 +291,7 @@
             this.buttonSegment.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.buttonSegment.Location = new System.Drawing.Point(257, 581);
             this.buttonSegment.Name = "buttonSegment";
-            this.buttonSegment.Size = new System.Drawing.Size(115, 63);
+            this.buttonSegment.Size = new System.Drawing.Size(115, 61);
             this.buttonSegment.TabIndex = 60;
             this.buttonSegment.Text = "Tokenizovat";
             this.buttonSegment.UseVisualStyleBackColor = true;
@@ -502,6 +502,7 @@
             // 
             // textBoxSource
             // 
+            this.textBoxSource.EnableAutoDragDrop = true;
             this.textBoxSource.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.textBoxSource.Location = new System.Drawing.Point(1, 87);
             this.textBoxSource.Name = "textBoxSource";
@@ -512,7 +513,7 @@
             // SaveButton
             // 
             this.SaveButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.SaveButton.Location = new System.Drawing.Point(15, 613);
+            this.SaveButton.Location = new System.Drawing.Point(15, 612);
             this.SaveButton.Name = "SaveButton";
             this.SaveButton.Size = new System.Drawing.Size(115, 30);
             this.SaveButton.TabIndex = 109;
@@ -522,21 +523,21 @@
             // 
             // divider
             // 
-            this.divider.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.divider.Location = new System.Drawing.Point(550, 624);
+            this.divider.Font = new System.Drawing.Font("Microsoft Sans Serif", 12.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.divider.Location = new System.Drawing.Point(578, 615);
             this.divider.MaxLength = 255;
             this.divider.Name = "divider";
-            this.divider.Size = new System.Drawing.Size(243, 29);
+            this.divider.Size = new System.Drawing.Size(216, 27);
             this.divider.TabIndex = 110;
             this.divider.Text = "/";
             // 
             // label12
             // 
             this.label12.AutoSize = true;
-            this.label12.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.label12.Location = new System.Drawing.Point(547, 603);
+            this.label12.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.label12.Location = new System.Drawing.Point(575, 596);
             this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(79, 18);
+            this.label12.Size = new System.Drawing.Size(75, 16);
             this.label12.TabIndex = 111;
             this.label12.Text = "Oddělovač";
             // 
@@ -557,9 +558,9 @@
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.label3.Location = new System.Drawing.Point(833, 12);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(107, 15);
+            this.label3.Size = new System.Drawing.Size(114, 15);
             this.label3.TabIndex = 113;
-            this.label3.Text = "PanguCZ alpha v9";
+            this.label3.Text = "PanguCZ alpha v11";
             // 
             // label7
             // 
@@ -586,7 +587,7 @@
             this.buttonClearForms.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.buttonClearForms.Location = new System.Drawing.Point(136, 581);
             this.buttonClearForms.Name = "buttonClearForms";
-            this.buttonClearForms.Size = new System.Drawing.Size(115, 63);
+            this.buttonClearForms.Size = new System.Drawing.Size(115, 61);
             this.buttonClearForms.TabIndex = 116;
             this.buttonClearForms.Text = "Vymazat";
             this.buttonClearForms.UseVisualStyleBackColor = true;
@@ -597,24 +598,26 @@
             this.checkBoxIgnoreEOL.AutoSize = true;
             this.checkBoxIgnoreEOL.Checked = true;
             this.checkBoxIgnoreEOL.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.checkBoxIgnoreEOL.Location = new System.Drawing.Point(674, 583);
+            this.checkBoxIgnoreEOL.Location = new System.Drawing.Point(423, 625);
             this.checkBoxIgnoreEOL.Name = "checkBoxIgnoreEOL";
             this.checkBoxIgnoreEOL.Size = new System.Drawing.Size(119, 17);
             this.checkBoxIgnoreEOL.TabIndex = 117;
             this.checkBoxIgnoreEOL.Text = "Mazat konce řádků";
             this.checkBoxIgnoreEOL.UseVisualStyleBackColor = true;
+            this.checkBoxIgnoreEOL.CheckedChanged += new System.EventHandler(this.checkBoxIgnoreEOL_CheckedChanged);
             // 
             // checkBoxIgnoreSpace
             // 
             this.checkBoxIgnoreSpace.AutoSize = true;
             this.checkBoxIgnoreSpace.Checked = true;
             this.checkBoxIgnoreSpace.CheckState = System.Windows.Forms.CheckState.Checked;
-            this.checkBoxIgnoreSpace.Location = new System.Drawing.Point(550, 583);
+            this.checkBoxIgnoreSpace.Location = new System.Drawing.Point(423, 602);
             this.checkBoxIgnoreSpace.Name = "checkBoxIgnoreSpace";
             this.checkBoxIgnoreSpace.Size = new System.Drawing.Size(91, 17);
             this.checkBoxIgnoreSpace.TabIndex = 118;
             this.checkBoxIgnoreSpace.Text = "Mazat mezery";
             this.checkBoxIgnoreSpace.UseVisualStyleBackColor = true;
+            this.checkBoxIgnoreSpace.CheckedChanged += new System.EventHandler(this.checkBoxIgnoreSpace_CheckedChanged);
             // 
             // FormDemo
             // 

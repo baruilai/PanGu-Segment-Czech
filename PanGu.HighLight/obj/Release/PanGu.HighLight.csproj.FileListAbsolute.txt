@@ -3,3 +3,8 @@ C:\Users\Argothian\Desktop\pangu-segment\Bin\Release\PanGu.HighLight.pdb
 C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\PanGu.HighLight\obj\Release\PanGu.HighLight.dll
 C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\PanGu.HighLight\obj\Release\PanGu.HighLight.pdb
 C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\PanGu.HighLight\obj\Release\PanGu.HighLight.csprojResolveAssemblyReference.cache
+D:\down\Sharp-desktop\pangu-segment\Bin\Release\PanGu.HighLight.dll
+D:\down\Sharp-desktop\pangu-segment\Bin\Release\PanGu.HighLight.pdb
+D:\down\Sharp-desktop\pangu-segment\PanGuSegment\PanGu.HighLight\obj\Release\PanGu.HighLight.csprojResolveAssemblyReference.cache
+D:\down\Sharp-desktop\pangu-segment\PanGuSegment\PanGu.HighLight\obj\Release\PanGu.HighLight.dll
+D:\down\Sharp-desktop\pangu-segment\PanGuSegment\PanGu.HighLight\obj\Release\PanGu.HighLight.pdb
