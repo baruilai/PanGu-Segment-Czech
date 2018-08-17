@@ -1,0 +1,8 @@
+C:\Users\Argothian\Desktop\pangu-segment\Bin\Debug\Demo.exe
+C:\Users\Argothian\Desktop\pangu-segment\Bin\Debug\Demo.pdb
+C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\Demo\obj\Debug\Demo.FormDemo.resources
+C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\Demo\obj\Debug\Demo.Properties.Resources.resources
+C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\Demo\obj\Debug\Demo.csproj.GenerateResource.Cache
+C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\Demo\obj\Debug\Demo.exe
+C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\Demo\obj\Debug\Demo.pdb

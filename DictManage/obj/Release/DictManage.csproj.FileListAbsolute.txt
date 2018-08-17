@@ -1,0 +1,12 @@
+C:\Users\Argothian\Desktop\pangu-segment\Bin\Release\DictManage.exe
+C:\Users\Argothian\Desktop\pangu-segment\Bin\Release\DictManage.pdb
+C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\DictManage\obj\Release\DictManage.csprojResolveAssemblyReference.cache
+C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\DictManage\obj\Release\DictManage.FormBatchInsert.resources
+C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\DictManage\obj\Release\DictManage.FormEncoder.resources
+C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\DictManage\obj\Release\DictManage.FormFind.resources
+C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\DictManage\obj\Release\DictManage.FormInputDictVersion.resources
+C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\DictManage\obj\Release\DictManage.FormMain.resources
+C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\DictManage\obj\Release\DictManage.Properties.Resources.resources
+C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\DictManage\obj\Release\DictManage.csproj.GenerateResource.Cache
+C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\DictManage\obj\Release\DictManage.exe
+C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\DictManage\obj\Release\DictManage.pdb

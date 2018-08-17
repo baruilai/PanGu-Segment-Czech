@@ -1,0 +1,11 @@
+C:\Users\Argothian\Desktop\pangu-segment\Bin\Debug\DictManage.exe
+C:\Users\Argothian\Desktop\pangu-segment\Bin\Debug\DictManage.pdb
+C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\DictManage\obj\Debug\DictManage.FormBatchInsert.resources
+C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\DictManage\obj\Debug\DictManage.FormEncoder.resources
+C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\DictManage\obj\Debug\DictManage.FormFind.resources
+C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\DictManage\obj\Debug\DictManage.FormInputDictVersion.resources
+C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\DictManage\obj\Debug\DictManage.FormMain.resources
+C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\DictManage\obj\Debug\DictManage.Properties.Resources.resources
+C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\DictManage\obj\Debug\DictManage.csproj.GenerateResource.Cache
+C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\DictManage\obj\Debug\DictManage.exe
+C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\DictManage\obj\Debug\DictManage.pdb

@@ -1,0 +1,4 @@
+C:\Users\Argothian\Desktop\pangu-segment\Bin\Debug\PanGu.HighLight.dll
+C:\Users\Argothian\Desktop\pangu-segment\Bin\Debug\PanGu.HighLight.pdb
+C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\PanGu.HighLight\obj\Debug\PanGu.HighLight.dll
+C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\PanGu.HighLight\obj\Debug\PanGu.HighLight.pdb

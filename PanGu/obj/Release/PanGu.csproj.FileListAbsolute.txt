@@ -1,0 +1,7 @@
+C:\Users\Argothian\Desktop\pangu-segment\Bin\Release\PanGu.dll
+C:\Users\Argothian\Desktop\pangu-segment\Bin\Release\PanGu.pdb
+C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\PanGu\obj\Release\PanGu.AnalyzerResource.resources
+C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\PanGu\obj\Release\PanGu.csproj.GenerateResource.Cache
+C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\PanGu\obj\Release\PanGu.dll
+C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\PanGu\obj\Release\PanGu.pdb
+C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\PanGu\obj\Release\PanGu.csprojResolveAssemblyReference.cache

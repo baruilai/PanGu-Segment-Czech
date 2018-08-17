@@ -1,0 +1,7 @@
+C:\Users\Argothian\Desktop\pangu-segment\Bin\Release\PosDisplayCtrl.dll
+C:\Users\Argothian\Desktop\pangu-segment\Bin\Release\PosDisplayCtrl.pdb
+C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\PosDisplayCtrl\obj\Release\PosDisplayCtrl.csprojResolveAssemblyReference.cache
+C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\PosDisplayCtrl\obj\Release\PosDisplayCtrl.PosCtrl.resources
+C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\PosDisplayCtrl\obj\Release\PosDisplayCtrl.csproj.GenerateResource.Cache
+C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\PosDisplayCtrl\obj\Release\PosDisplayCtrl.dll
+C:\Users\Argothian\Desktop\pangu-segment\PanGuSegment\PosDisplayCtrl\obj\Release\PosDisplayCtrl.pdb
